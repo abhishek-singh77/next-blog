@@ -1,3 +1,4 @@
+A fully functional blog applicatoin built using next.js and graphql.
 The Live website is here <a href = "https://next-blog-abhishek-singh77.vercel.app/" target=blank> BlogApp</a>
 
 # Next.js + Tailwind CSS Example
